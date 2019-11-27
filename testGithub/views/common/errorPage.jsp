@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-뭫라는거니
+
 </body>
 </html>
